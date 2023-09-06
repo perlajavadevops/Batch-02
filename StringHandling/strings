@@ -1,0 +1,56 @@
+what is string?: String is class in java .. it is object in java
+
+Ex: "Dhatrika" --> 
+
+String class is immutable class 
+
+Ex: "AshokIT"
+
+String s1 = "Dhtrika";
+
+s1 = "Sai";
+
+ 
+startWith
+toUpperCase
+toLowerCase
+endsWith
+
+1. String is immutable and i.e String class is thread safe.
+ 
+
+StringBuffer: 
+1. thread safe.
+2. easy to modified or concatenated (mutable).
+
+
+StringBuilder:
+1. not thread safe.
+
+1. Write a pgram to phone whethre valid or not based reqular expression.
+2. Write a pgram to password whethre valid or not based reqular expression.
+3. Write a pgram to validate contry code  whethre valid or not based reqular expression.
+4. Write a pgrm to reverse string. e.x: "hello" --> olleh --> based recursive function (Algorithm)
+5. write a prm to check whether given string and reversed string is same or not. "MADAM" -> "MADAM"
+6. write a pgrm to print: abc ->abc, bca, cab, cba, bac, acb.
+7. write a prgm to print each character count: hello -> h-1, e-1, l-2, o-1
+	
+byte   --> Byte
+short  --> Short
+int    --> Integer
+long   --> Long
+char   --> Character
+float  --> Float
+double --> Double
+boolean -> Boolean
+
+Number is super class for Wrapper(int, float, long, double, byte, short)
+NumberFormatException: "123" --> 123
+						"12UY" --> NumberFormatException
+	parserInt
+	
+
+
+
+
+

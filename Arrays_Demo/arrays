@@ -1,0 +1,20 @@
+Arrays:
+1. Will allow similar type of data.
+2. arrays size is fixed. 5. --> ArrayIndexOutOfBoundsException(runtime exception).
+3. arrays start index is '0'.
+4. arrays are objects in java lang.
+5. we can create arrsys. int[] arr = new int[10];
+6. in single line initialize arrays: int[] arr1 = {2,4,5,67,7,8,9} 
+7. to get the arrays size we need to 'length' property.
+8. it is maintianing type safety.
+9. arrays are random access.
+10. arrays will allow duplicates also.
+
+
+1. Remove duplicates from arrays and print uniqe data.
+2. print only duplicates from arrays.
+3. write a program to print in order ( ascending or decending order) 
+		
+4. write a program to search given element ie.20 by using binary search and lear seach. ex: {1,2,5,20,30,10}
+5. FIFO  ->Queqe  ex: {1,2,5,20,30,10} using arrays.
+6. Stack -> Last in first out
