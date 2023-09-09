@@ -1,0 +1,11 @@
+
+|
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "nu".(ëÎÄ–ÿÿÿÿÿ8–åÕ«¢1
+7
+java:S1220""Move this file to a named package.8êÄÓ«¢1
+C
+java:S2129"!Remove this "Integer" constructor(ëÎÄ–ÿÿÿÿÿ8£åÕ«¢1
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ëÎÄ–ÿÿÿÿÿ8¨åÕ«¢1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ª„ıŸûÿÿÿÿ8ôÄÓ«¢1

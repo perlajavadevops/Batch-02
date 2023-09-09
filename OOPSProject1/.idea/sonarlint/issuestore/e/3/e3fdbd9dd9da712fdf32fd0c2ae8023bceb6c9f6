@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8îÙÍ¯¡1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¡Æ½8üÙÍ¯¡1
+E
+java:S1172	"(Remove this unused method parameter "a".(°†ë8üÙÍ¯¡1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜…”Ç8şÙÍ¯¡1
+F
+java:S1172")Remove this unused method parameter "ch".(²ò³õ8ÿÙÍ¯¡1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ†¬°8ÚÍ¯¡1
+Z
+java:S1854"8Remove this useless assignment to local variable "demo".(µ½Ò©şÿÿÿÿ8‚ÚÍ¯¡1
+K
+java:S1481")Remove this unused "demo" local variable.(µ½Ò©şÿÿÿÿ8ƒÚÍ¯¡1

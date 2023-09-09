@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8‹‰ÞÏ£1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘¶’¹8›‰ÞÏ£1
+]	java:S125"<This block of commented-out lines of code should be removed.(Í¾è²ýÿÿÿÿ8ž‰ÞÏ£1
+]	java:S125"<This block of commented-out lines of code should be removed.(¨Ûµðùÿÿÿÿ8 ‰ÞÏ£1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¡‰ÞÏ£1
+[
+java:S1854"9Remove this useless assignment to local variable "demo1".(†‚“üþÿÿÿÿ8§‰ÞÏ£1
+X	java:S125"<This block of commented-out lines of code should be removed.(æ±æ¡8¨‰ÞÏ£1
+W	java:S125"<This block of commented-out lines of code should be removed.(—ÀÇ08ª‰ÞÏ£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘×Äšÿÿÿÿÿ8«‰ÞÏ£1
+L
+java:S1481"*Remove this unused "demo1" local variable.(†‚“üþÿÿÿÿ8¬‰ÞÏ£1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‘×Äšÿÿÿÿÿ8®‰ÞÏ£1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¶þ×éýÿÿÿÿ8¯‰ÞÏ£1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¶þ×éýÿÿÿÿ8°‰ÞÏ£1

@@ -1,0 +1,18 @@
+
+r
+java:S1104"UMake companyId a static final constant or non-public and provide accessors if needed.(ä¢Íò8È³ˆù£1
+7
+java:S1220""Move this file to a named package.8É³ˆù£1
+V
+java:S5993	"9Change the visibility of this constructor to "protected".(Í¦ì•8Ø³ˆù£1
+X	java:S125"<This block of commented-out lines of code should be removed.(¬æ¨¾8Û³ˆù£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—òÉôøÿÿÿÿ8Û³ˆù£1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ôÎÚ¤8Ü³ˆù£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éçœ™ýÿÿÿÿ8Þ³ˆù£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î®µêþÿÿÿÿ8ß³ˆù£1
+]	java:S125 "<This block of commented-out lines of code should be removed.(šµâƒüÿÿÿÿ8ß³ˆù£1
+]	java:S125("<This block of commented-out lines of code should be removed.(Ûù´àûÿÿÿÿ8á³ˆù£1
+X	java:S125."<This block of commented-out lines of code should be removed.(Åè£8ìÂ‹ù£1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(½ãÿ„ûÿÿÿÿ8èŒ‹ù£1
+]	java:S125@"<This block of commented-out lines of code should be removed.(šµâƒüÿÿÿÿ8ÏÞˆù£1
+X	java:S125G"<This block of commented-out lines of code should be removed.(¶×‘8é³ˆù£1

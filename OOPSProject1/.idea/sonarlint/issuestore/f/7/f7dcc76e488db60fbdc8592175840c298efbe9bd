@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8ŠÞëª¢1
+X
+java:S1854";Remove this useless assignment to local variable "tataBus".(ùòÞ¤8ü¯ðª¢1
+`
+java:S1854">Remove this useless assignment to local variable "tataTrucks".(“úæ¾üÿÿÿÿ8îÚðª¢1
+Y
+java:S1854"<Remove this useless assignment to local variable "tataCars".(Òª”ð8Û•ìª¢1
+J
+java:S1481"-Remove this unused "tataCars" local variable.(Òª”ð8’Þëª¢1
+Q
+java:S1481"/Remove this unused "tataTrucks" local variable.(“úæ¾üÿÿÿÿ8€°ðª¢1
+I
+java:S1481",Remove this unused "tataBus" local variable.(ùòÞ¤8 †ñª¢1

@@ -1,0 +1,302 @@
+What is operator overloading?
+- + / * ==
+
++ is the only 1 oper overl
+
+In b/w numbers if we use + it will act as addition. ex: 8+8 = 16
+In b/w Strings if we use + it will act as contination. ex: "Siri"+"Dhatrika" = SiriDhatrika
+
+Ex: 8+8 = 16
+"Siri"+"Dhatrika" = Siri Dhatrika
+1+1+"Dhatrika"   =
+"Dhatrika"+1+1   =
+(1+1)+"Dhatrika" =
+"Dhatrika"+(1+1) =
+"Dhatrika"+(1+1)+"Siri"+23+24=
+
+
+What is Operators and Operands?
+
+
+OOPS: Object Oriented Programming System: C++, Java, Python, C#,Objective-C, PHP, JavaScript
+POPS: COBOL, C, BASIC, PASCAL, C++
+EX: Pen or chair or animals or human Logical Object
+
+What is Object?: The object can be either will exist logical or physically
+Ex: Physicallly Oj: Laptop, Animals, Chair, Pen, Items...
+    Logical Oject: MS WORD, etc....
+The objects contains 3 characterstics: Identity, Behiour(actions), Properties (data) or state
+1111,
+Ex: Dog dog2 = new Dog();//10101
+ Dog dog1 = new Dog();//2202
+
+1. object is instance of an class.
+What is class?
+  contains: Constro, Data (fields), methods, blocks, nested class
+
+Constructor: Special method in java.
+
+Naming Conventions:
+Class: Demo ex: Exception or Thread
+Interface: Ex: Runnable
+Method: println(), actionPerformed()
+Variable:
+Constructors:
+Constants: static final PAN_CARD = "PANCARD", PANCARD, STATUS,
+PACKAGES: com.google
+
+Java Comments:
+Multiline comment:
+/*
+
+*/
+
+Single line Comment:
+//
+
+
+What is
+Ex: class A{
+
+
+    }
+
+How many types of Constructors?
+1. Default Constru
+    Purpose:
+        Java Compiler will add in our .class
+2. Paramete
+
+//
+javap - java profile
+JDecompiler
+
+Constrcot overloading: More than 1 constructor if you have in your class defination will called as constroctor overloading
+
+they some rules:
+
+1. Constructor should same
+2. Constructor parameters should differernt data types or no of arugments
+Ex:
+   A{
+        //0- param
+        A(){
+
+        }
+        //1-param - int param
+        A(int a){
+
+        }
+
+         //1-param  long, boolean, String
+         A(long a){
+
+         }
+         A(int a, int b){
+
+         }
+
+   }
+
+10.0, 90.0 -- by default consider as double java compiler
+10, 20, 30 --> by default con as int in java(compiler)
+
+10L -- automatic type promotion - up-casting
+int-long-double-float
+
+byte <-- short <-- int
+(short)10 -> explicityl de-promotion - down casting
+
+this keyword:
+ this? --> it will refer to current class object (reference)
+
+ 1.  using this keyword we can differentiate the instnace variables and (contr, method ) parameter variables.
+ 2.  we can also use this keyword as a parameter in the contructors.
+
+ 3. this() contructor we can also invoke one cn from another con.
+ 4. using this keyword we can call instance methods in the class
+
+
+Method:
+
+What is method? also function? expose the behivour (action) an object
+
+Types methods? 1. instance method (non-static method) 2. static method.
+
+ex: static methods
+
+public static void n(){
+
+}
+
+A.n();//
+
+
+
+ex: instance method:
+public void n(){
+
+}
+
+What is Method Overloading?
+with in the class multiple mehtods having same name but with different paratermest list.
+Adva --> increse readability of program.
+
+Rules: 1. different or by changing data types
+        2. having no of arguments in method defination
+
+Method Overloading and this keyword with methods
+
+Inheritance or Is-A-Relationship.
+
+Single inher
+multi level
+heriac
+Multiple inh
+hybrid inher
+
+dynamic problme
+extends, implements
+
+Co-variant Return type
+ 
+create class and achive constro over
+is java is having copy constructor or not?
+
+can we call sub class(child) constructor from super(parent) class
+
+2 types blocks in java
+
+1. Instance (initializer) block
+2. static block
+
+Method Overriding:
+u must maintain the relationship --> Inheritance
+
+
+Poly:
+
+Static Poly or Compile time poly
+Runtime Poly or Dynamic poly
+
+Static Binding or Early Binding:
+    int a = 90;
+
+static, private, final
+
+Dynamic Binding or lazy binding or late binding:
+
+instanceOf operator
+
+super keyword:
+it will refer immediate super class object (TYPE).
+
+
+
+final keyword:
+
+1. final keyword can be used to declare the variables as final variables. it can not modified.
+2. final int price = 100;
+   final int price;
+  the final varialb value can be initialized by through the constructor if final instance var declared.
+3. final method: can not overried.
+4. final class: can not be inherited.
+
+Abstraction: hidding the implmenetation and showing only funcationlity to the end user (Customer).
+
+abstract class: 0 - 100% (Partial Abstraction)
+interface: 100% (Fully Abstraction)
+
+abstract method: abstract methods can not have body
+we can create only in abstract class and interface.
+abstract method implementation can be done with in the sub or child class.
+we can not create private, final, static abstract methods.
+
+ex: public abstract void m();
+
+abstract class vs interface:
+
+Abstract class:
+1. it looks like normal class but it will having abstract method.
+2. can have concrete methods? it will be final methods but it can not override.
+3. we can not create object of abstract direclty. by through the sub (child) constructor we can create the obect.
+
+Interface:
+ 1. To Achive fully abstraction
+ 2. It will support multiple inheritance
+ 3. For the interface, we can not create obje.
+ 4. public static final variables (Constants)
+ 5. It will have only abstract method (Public abstract methods)
+ 6. We can create empty interfaces( without abstract methods). we can called it as Marker Interfaces.
+ 7. to define interfaces we have to use interface keyword.
+ 8. implements keyword
+From java 8 version, the interfaces will also allowing to create default and static methods
+
+Package:
+
+Advatages of Packages:
+1. To avoid Naming Collision
+2. package keyword to create the pacakges.
+3. import keyword to import from packa to another packe
+
+
+there is default packages is available? java.lang;
+package com;
+package com.google;
+
+
+4 access modifiers:
+
+1. private: scope of the private meme with in class only.
+2. default: scope of the default meme with in package only.
+3. protected: scope of the default meme with in package only.
+        and out side of the package also can access that too when we have relationship between that classes and
+        from sub class only we can access.
+4. public:
+
+
+What is Encapsulation:
+ we can group the data in to single unit and we hidde that data from outside of the class.
+ to achive we need the private memebers in the class and public setter and getter methods.
+
+ Student{ //java Beans, POJO (Plain old java object), Entities (in b/w java and db), DTO's (Data Transfer Objects)
+    private int sno;
+    private String name;
+    private boolean flag;
+
+    public void setSno(int sno){
+        this.sno=sno;
+    }
+
+    public int getSno(){
+        return sno;
+    }
+
+    public void setFlag(boolean flag){
+        this.flag=flag;
+    }
+
+    public boolean isFlag(){
+        return flag;
+    }
+ }
+
+=========================
+OOPS:
+
+1. OOPS VS POPS
+2. What is object
+3. Class
+4. Constructor, constructor overloading
+5. This, super, method overloading, method overrding
+6. Inheritance, Poly, Abstr, Encapu.
+7. final keyword, access modifiers, packages, instanceof, typecasting,
+8. operator overloading.
+
+
+
+
+
+
+
+

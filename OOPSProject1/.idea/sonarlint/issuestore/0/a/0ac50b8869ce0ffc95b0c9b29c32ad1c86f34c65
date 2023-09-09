@@ -1,0 +1,23 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¾ÀÚýÿÿÿÿ8•Š¼Š 1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥À¶f8–Š¼Š 1
+7
+java:S1220""Move this file to a named package.8—Š¼Š 1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú»ÏÁ8ºŠ¼Š 1
+K
+java:S1481".Remove this unused "studentId" local variable.(Ô‡¨¹8ËŠ¼Š 1
+J
+java:S1481".Remove this unused "firstName" local variable.(Ñ²ß8ÌŠ¼Š 1
+Q
+java:S1481"/Remove this unused "first_name" local variable.(š¾ÀÚýÿÿÿÿ8ÍŠ¼Š 1
+J
+java:S1481".Remove this unused "last_name" local variable.(¥À¶f8ÍŠ¼Š 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾¬ÞÁ8ÔŠ¼Š 1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾¬ÞÁ8ÕŠ¼Š 1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¾¬ÞÁ8ÖŠ¼Š 1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(û©¦ûþÿÿÿÿ8×Š¼Š 1
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(È¥ùA8ØŠ¼Š 1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÊËó“ûÿÿÿÿ8¶‹ñŠ 1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(äñø´8ÇòôŠ 1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(÷†óÜúÿÿÿÿ8ö“‹‹ 1
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(Òå–-8ö“‹‹ 1

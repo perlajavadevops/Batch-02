@@ -1,0 +1,23 @@
+
+7
+java:S1220""Move this file to a named package.8Å‘´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯û˜úÿÿÿÿ8Ø‘´ 1
+K
+java:S1172")Remove this unused method parameter "id".(¼ïªúÿÿÿÿ8Ù‘´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áå¯ÿÿÿÿÿ8Ú‘´ 1
+K
+java:S1172")Remove this unused method parameter "id".(õéÏÜùÿÿÿÿ8Û‘´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´îÉÒşÿÿÿÿ8Û‘´ 1
+]
+java:S1854(";Remove this useless assignment to local variable "empLong".(¬ö½şÿÿÿÿ8İ‘´ 1
+Z
+java:S1854'"=Remove this useless assignment to local variable "empDouble".(îÜõ¶8Âç´ 1
+W
+java:S1854&":Remove this useless assignment to local variable "empInt".(Şç·¢8–Ñ´ 1
+H
+java:S1481&"+Remove this unused "empInt" local variable.(Şç·¢8Ş‘´ 1
+K
+java:S1481'".Remove this unused "empDouble" local variable.(îÜõ¶8Î—´ 1
+N
+java:S1481(",Remove this unused "empLong" local variable.(¬ö½şÿÿÿÿ8Åç´ 1
+W	java:S125*"<This block of commented-out lines of code should be removed.(ÿşé8Ş‘´ 1

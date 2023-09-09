@@ -1,0 +1,24 @@
+
+7
+java:S1220""Move this file to a named package.8ÜÂ³´ 1
+E
+java:S1172"(Remove this unused method parameter "a".(íûôê8ÍÚ´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯û˜úÿÿÿÿ8ŒÕ´´ 1
+J
+java:S1172"(Remove this unused method parameter "l".(ı…Ñ²şÿÿÿÿ8éîÙ´ 1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áå¯ÿÿÿÿÿ8ìîÙ´ 1
+E
+java:S1172"(Remove this unused method parameter "s".(¨¨äª8æÏÄ´ 1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ñÜ§8¡ÍÚ´ 1
+V
+java:S1854"9Remove this useless assignment to local variable "demo3".(şö­Ä8Å«Æ´ 1
+U
+java:S1854"9Remove this useless assignment to local variable "demo2".(°œƒ48¬£Ä´ 1
+V
+java:S1854"9Remove this useless assignment to local variable "demo1".(Î²©ú8öÿÄ´ 1
+G
+java:S1481"*Remove this unused "demo1" local variable.(Î²©ú8Û°¾´ 1
+F
+java:S1481"*Remove this unused "demo2" local variable.(°œƒ48Ç«Æ´ 1
+G
+java:S1481"*Remove this unused "demo3" local variable.(şö­Ä8Ç«Æ´ 1

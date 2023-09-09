@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8ÒÚÿÔ¢1
+V
+java:S1854"9Remove this useless assignment to local variable "hero2".(±ä™†8äÚÿÔ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òÂ¾ûÿÿÿÿ8æÚÿÔ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛÖŒûÿÿÿÿ8æÚÿÔ¢1
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(ä‘„A8æÚÿÔ¢1
+G
+java:S1481"*Remove this unused "hero2" local variable.(±ä™†8çÚÿÔ¢1
+]	java:S125"<This block of commented-out lines of code should be removed.(÷“ƒÿÿÿÿÿ8çÚÿÔ¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹¿“8èÚÿÔ¢1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“ş_8èÚÿÔ¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ÇÚ¨8éÚÿÔ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ­‡àúÿÿÿÿ8êÚÿÔ¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è®©8ëÚÿÔ¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ğ—8ëÚÿÔ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ÛŠ”ùÿÿÿÿ8•€Õ¢1
+]	java:S125!"<This block of commented-out lines of code should be removed.(ìÿÏşüÿÿÿÿ8ëÚÿÔ¢1

@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8ŸâìÓ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂíÎØÿÿÿÿÿ8·âìÓ¢1
+W
+java:S2209	"5Change this instance-reference to a static reference.(ÌÈŒšúÿÿÿÿ8„½òÓ¢1
+U
+java:S1854"8Remove this useless assignment to local variable "demo".(–ÔşÂ8èï‘Ô¢1
+N
+java:S2440"1Remove this instantiation of "StaticBindingDemo".(–ÔşÂ8†½òÓ¢1
+F
+java:S1481")Remove this unused "demo" local variable.(–ÔşÂ8êï‘Ô¢1
+]	java:S125"<This block of commented-out lines of code should be removed.(öèÀùşÿÿÿÿ8êï‘Ô¢1

@@ -1,0 +1,26 @@
+
+s
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(’¢òöúÿÿÿÿ8ğ¯ÏÕ¢1
+s
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(ùÑèâÿÿÿÿÿ8ñ¯ÏÕ¢1
+7
+java:S1220""Move this file to a named package.8ñ¯ÏÕ¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³±8ş¯ÏÕ¢1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(¶ùµŠ8ÿ¯ÏÕ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ®÷±ÿÿÿÿÿ8€°ÏÕ¢1
+L
+java:S2387"*"value" is the name of a field in "Shape".(ùÑèâÿÿÿÿÿ8ÿ¯ÏÕ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ûŒüÿÿÿÿ8°ÏÕ¢1
+X	java:S125"<This block of commented-out lines of code should be removed.(‰†ã»8€°ÏÕ¢1
+J
+java:S1172"(Remove this unused method parameter "a".(ĞœË£şÿÿÿÿ8€°ÏÕ¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ûŒüÿÿÿÿ8‚°ÏÕ¢1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¼‹ĞÃ8ƒ°ÏÕ¢1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ÖúÍğÿÿÿÿÿ8ƒ°ÏÕ¢1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Æ‚æõÿÿÿÿÿ8„°ÏÕ¢1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¼‹ĞÃ8ÎĞÕ¢1
+W
+java:S18548":Remove this useless assignment to local variable "shape2".(ë™Ü×8„°ÏÕ¢1
+H
+java:S14818"+Remove this unused "shape2" local variable.(ë™Ü×8†°ÏÕ¢1
+]	java:S1259"<This block of commented-out lines of code should be removed.(¶‚ÄÌÿÿÿÿÿ8†°ÏÕ¢1
