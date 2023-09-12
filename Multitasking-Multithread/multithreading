@@ -1,3 +1,5 @@
+Multi Task:
+
 process based
 
 thread based
@@ -30,3 +32,33 @@ How many ways to create thread?
 2. An implementing with Runnable interface --> run()
  
 can we call run method direclty without start();
+
+Syncronization:
+1. Object level locking
+2. Class Level locking
+
+Syncronization is option where we wannt allow only one thread to be access the shared resource.
+
+Uses: 
+1. To prevent thread interference
+2. To prevent Consistancy problem
+
+They are 2 types: process syc, thread syc
+
+Thread Syncronization:
+
+1. Mutual Exclusive:
+	1. Syncronized method
+	2. Syncronized block
+	3. staitc Syncronization: 
+
+2. Co-operation (inter-thread communication): 
+	wait(), notify, notifyAll
+	
+What is Polling? 
+1. Object level locking
+	lock is associated with Obect.
+2. Class Level locking:
+	lock is associated with Class.
+
+Dead Lock Situation:
