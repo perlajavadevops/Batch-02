@@ -1,0 +1,12 @@
+Funcational Interface: WIll have only one abstrct method 
+
+@FuncationalInterface 
+
+Lambda expresion contains of 3 components
+  1. Arugumetents  list
+  2. Arrow token
+  3. body
+  
+  syntax:  () -> {
+  				//body
+  			}
