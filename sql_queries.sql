@@ -51,3 +51,4 @@ select firs from emp_details_1 WHERE id in(101, 102);
 
 select * from emp_details_1 WHERE FIRST_NAME LIKE '%D%';
 
+UPDATE emp_details_1 SET email = 'abc@gmail.com'  WHERE id= 102
