@@ -24,6 +24,18 @@ insert into emp_details_1 (id, first_name, last_name, salary) values (106, 'Siva
 create table emp_details_1(id int, first_name varchar(100), last_name varchar(100), salary float, CONSTRAINT id_pk PRIMARY KEY (id));
 insert into emp_details_1 (id, first_name, last_name, salary, email) values (104, 'Siri', 'Peram', 2000, 'abc@gmail.com');
 create database batch04;
+insert into employee_2 (id, dob) values (1, Date('2018-08-07'));
+
+select * from employee_2;
+
+
+CREATE TABLE employee_2 (
+  id int NOT NULL,
+  CREATION_DATE datetime DEFAULT CURRENT_TIMESTAMP,
+  DOB date DEFAULT NULL,
+  PRIMARY KEY (`id`)
+)
+
 commit;
 --MySQL
 
@@ -52,3 +64,43 @@ select firs from emp_details_1 WHERE id in(101, 102);
 select * from emp_details_1 WHERE FIRST_NAME LIKE '%D%';
 
 UPDATE emp_details_1 SET email = 'abc@gmail.com'  WHERE id= 102
+
+
+--
+select  * from emp_details_1;
+
+create table emp_image_tbl(id int, name varchar(30), image blob);
+INSERT INTO emp_image_tbl VALUES (101, 'PerlaReddy', LOAD_FILE('E:\\JDBC\\hashset.png'));
+
+create table EMPLOYEE_1(ID number(4), NAME varchar2(22), SALARY number(8), CREATION_DATE DATE, UPDATION_DATE date, DOB Date);
+
+
+CREATE TABLE `demo`.`employee_2` (
+  `id` INT NOT NULL,
+  `CREATION_DATE` DATETIME GENERATED ALWAYS AS () VIRTUAL,
+  `DOB` DATE NULL,
+  PRIMARY KEY (`id`));
+
+ 
+select * from emp_image_tbl;
+
+
+select  * from emp_details_1;
+
+create table emp_image_tbl(id int, name varchar(30), image blob);
+INSERT INTO emp_image_tbl VALUES (101, 'PerlaReddy', LOAD_FILE('E:\\JDBC\\hashset.png'));
+
+create table EMPLOYEE_1(ID number(4), NAME varchar2(22), SALARY number(8), CREATION_DATE DATE, UPDATION_DATE date, DOB Date);
+
+
+CREATE TABLE `demo`.`employee_2` (
+  `id` INT NOT NULL,
+  `CREATION_DATE` DATETIME GENERATED ALWAYS AS () VIRTUAL,
+  `DOB` DATE NULL,
+  PRIMARY KEY (`id`));
+
+ 
+select * from emp_image_tbl;
+
+
+

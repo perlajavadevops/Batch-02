@@ -25,6 +25,7 @@ public class CRUDJDBCExample {
 			preStmt.setString(4, "Sai");
 			preStmt.setInt(5, 104);
 			
+			
 			/*
 			 * preStmt.setString(2, "Dhatrika"); preStmt.setString(3, "Sai");
 			 * preStmt.setFloat(4, 9000); preStmt.setString(5, "dhatrika@gmail.com");

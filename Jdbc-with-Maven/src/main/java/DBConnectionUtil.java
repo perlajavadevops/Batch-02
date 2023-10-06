@@ -26,5 +26,24 @@ public class DBConnectionUtil {
 		return con;
 
 	}
+	
+	public static Connection getOracleConnection() throws IOException, ClassNotFoundException, SQLException {
+
+		InputStream is = new FileInputStream("src/main/resources/application.properties");
+		Properties properties = new Properties();
+		properties.load(is);
+
+		String driverClass = properties.getProperty("db.oracle.driverClass");
+		String password = properties.getProperty("db.oracle.password");
+		String userName = properties.getProperty("db.oracle.username");
+		String jdbcUrl = properties.getProperty("db.oracle.jdbcurl");
+
+		Class.forName(driverClass);
+		// step 2
+		Connection con = DriverManager.getConnection(jdbcUrl, userName, password);// connection
+
+		return con;
+
+	}
 
 }
