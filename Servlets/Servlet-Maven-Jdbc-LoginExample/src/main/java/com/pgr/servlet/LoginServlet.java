@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 
 import com.pgr.dao.LoginDao;
 
+import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
@@ -32,11 +33,12 @@ public class LoginServlet extends HttpServlet {
 
 		LoginDao loginDao = new LoginDao();
 		boolean valid = loginDao.validateLoginDetails(userName, password);
+
 		if (valid) {
-			out.println("<html><body style='color:red'>User Name is " + userName + " password is " + password
-					+ "</body></html>");
+			request.getRequestDispatcher("/welcome").forward(request, response);
 		} else {
 			out.print("Invalid User Details");
+			request.getRequestDispatcher("index.html").include(request, response);
 		}
 
 		out.close();
