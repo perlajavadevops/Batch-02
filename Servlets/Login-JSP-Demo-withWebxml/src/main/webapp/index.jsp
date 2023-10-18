@@ -11,7 +11,12 @@
 	<%
 	String userName = request.getParameter("userName");
 	String password = request.getParameter("password");
-
+	
+	/* String configUserName = config.getInitParameter("username");
+	out.println(configUserName);
+	
+	out.println(application.getInitParameter("username1")); */
+	
 	if (userName.equals("admin")) {
 		out.println("Welcome Admin....");
 	} else {
